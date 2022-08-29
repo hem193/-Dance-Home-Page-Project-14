@@ -10,8 +10,8 @@ This is a static one page portfolio Template made using HTML & CSS
 
 ---
 
-**[Live Project's netlify link](https://Dance-Home-Page-Project-14/ "Project link")**
+**[Live Project's netlify link](https://chic-arithmetic-8c87b5.netlify.app/ "Project link")**
 
-[![Project ScreenShot](./images/Screenshot.png)](https://Dance-Home-Page-Project-14/ "Project link")
+[![Project ScreenShot](./images/Screenshot.png)](https://chic-arithmetic-8c87b5.netlify.app/ "Project link")
 
 ---
